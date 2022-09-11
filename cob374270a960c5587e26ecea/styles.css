@@ -6,11 +6,11 @@ body {
 }
 
 h1, h2, h3, h4, p {
-    text-shadow: 0 0 1px black;
+    text-shadow: 0 0 1px rgb(37, 0, 0);
 }
 
 #bff-img {
-    width: 150px;
+    width: 160px;
     border-radius: 50%;
     border: 6px solid darkred;
     margin-bottom: 10px;
@@ -91,15 +91,3 @@ h1, h2, h3, h4, p {
 a {
     color: white;
 }
-
-/* 
-Add the footer paragraph according to the design. 
-Configure the anchor tag to open the link in a new tab.
-Forgotten how to do it? Google it! 
-
-Link: 
-https://scrimba.com/learn/htmlandcss
-
-Text:
-Want to create your own Birthday GIFt site? Take this HTML & CSS course.
-*/
